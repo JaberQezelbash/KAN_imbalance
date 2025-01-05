@@ -1,1 +1,2 @@
-# KAN mitigates class imbalance
+# KANBalance
+* Kolmogorov-Arnold Networks Mitigates Class Imbalance
