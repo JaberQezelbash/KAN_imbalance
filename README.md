@@ -1,1 +1,1 @@
-# KAN_imbalance
+# KAN mitigates class imbalance
